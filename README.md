@@ -26,6 +26,7 @@ Repository to show git commit pattern based on [conventionalcommits.org](https:/
 - **refactor**: code refactor
 - **style**: formatting changes (markup, white-space, ...)
 - **build**: build related changes
+- **ci**: ci changes
 - **test**: add/fix tests
 - **chore**: no production code change
 - **docs**: change documentation
